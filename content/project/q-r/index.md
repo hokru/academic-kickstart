@@ -4,7 +4,6 @@ subtitle: ""
 date: 2020-08-04T14:57:23.429Z
 draft: false
 featured: false
-external_link: '""'
 links:
   - url: www.qrefine.com
 image:
