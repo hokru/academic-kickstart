@@ -28,6 +28,7 @@ interests:
 - computational chemistry
 
 education:
+courses:
   - degree: PhD in Theoretical Chemistry
     institution: University of Munster
     year: 2012
